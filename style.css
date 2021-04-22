@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.class3 {
+    width: 170px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#section1 {
+    position: absolute;
+    overflow: hidden;
+    height: 600px;
+    color: #aadbed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.83;
+    background: linear-gradient(#eb2222 0%, #c3ed4e 100%);
+    width: 100%;
+    height: 100%;
+    display: table;
+    z-index: 5;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: cursive;
+}
+
+.class2 {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+    max-width: 650px;
+    margin: 15px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+.Class4 {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: black;
+}
+
+#Section2 {
+    padding: 50px;
+    text-align: center;
+}
+
+.Menu {
+    position: fixed;
+    top: 0px;
+    z-index: 70;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+    margin-top: 0px;
+    background: white;
+}
+
+.links {
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: cornflowerblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.links:hover {
+    color: dodgerblue;
+text-decoration: underline;
+font-size:25px;
+}
+
+.Class5 {
+    color: dodgerblue;
+}
+
+#section6 iframe {
+    width: 100%
+}
+
+.class6 h1 {
+    display: inline;
+}
+
+.class6 a {
+    color: dodgerblue;
+    text-shadow: none;
+}
+
+#section5 a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: cornflowerblue !important;
+}
+
+a {
+    text-shadow: 2px 2px dodgerblue;
+    color: dodgerblue;
+    text-decoration: none;
+}
